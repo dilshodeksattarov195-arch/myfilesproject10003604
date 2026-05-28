@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "routerverify",
+        "uuid": 12567148,
+        "checksum": "7pin17"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "production"
+    }
+}
